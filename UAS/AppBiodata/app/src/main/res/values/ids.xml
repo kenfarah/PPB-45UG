@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txID_Edit" type="id">txID_Edit</item>
+    <item name="txNomor_Edit" type="id">txNomor_Edit</item>
+    <item name="txNama_Edit" type="id">txNama_Edit</item>
+    <item name="spJK_Edit" type="id">spJK_Edit</item>
+    <item name="txTempatLahir_Edit" type="id">txTempatLahir_Edit</item>
+    <item name="txTglLahir_Edit" type="id">txTglLahir_Edit</item>
+    <item name="txAlamat_Edit" type="id">txAlamat_Edit</item>
+    <item name="tv_No" type="id">tv_No</item>
+    <item name="tv_Nama" type="id">tv_Nama</item>
+    <item name="tv_TempatLahir" type="id">tv_TempatLahir</item>
+    <item name="tv_Tanggal" type="id">tv_Tanggal</item>
+    <item name="tv_JK" type="id">tv_JK</item>
+    <item name="tv_Alamat" type="id">tv_Alamat</item>
+    <item name="save_add" type="id" />
+    <item name="save_edit" type="id" />
+    <item name="delete_edit" type="id" />
+</resources>
